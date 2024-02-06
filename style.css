@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.img-container {
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 40%;
+}
+
+
+#yesbut {
+  background-color:#04AA6D;
+  border-radius: 8px;
+  color: white;
+  height: 100px;
+  width: 150px;
+}
+
+#nobut {
+  background-color: #f44336;
+  border-radius: 8px;
+  color: white;
+  height: 100px;
+  width: 150px;
+}
+
+#nobutton {
+  border-left: 10px;
+  position: relative;
+}
+
+.yesnobuttons {
+  display: flex;
+  justify-content: center;
+}
