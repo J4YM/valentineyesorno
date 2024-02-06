@@ -1,6 +1,7 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: #ff69b4;
 }
 .img-container {
   display: inline;
@@ -10,10 +11,9 @@ html {
   margin-left: 40%;
 }
 
-
 #yesbut {
   background-color:#04AA6D;
-  border-radius: 8px;
+  border-radius: 9px;
   color: white;
   height: 100px;
   width: 150px;
@@ -21,7 +21,7 @@ html {
 
 #nobut {
   background-color: #f44336;
-  border-radius: 8px;
+  border-radius: 9px;
   color: white;
   height: 100px;
   width: 150px;
