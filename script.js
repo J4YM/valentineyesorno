@@ -1,10 +1,17 @@
-var nowords = ['Are you sure?',
-'Pwede pa naman pag usapan to',
-'Pretty Please',
-'Di ako magnanakaw pramis',
-'Libre pa kita',
-'Edi wag, pero sige na pls',
-'De, okay lang naman'
+var nowords = [
+  'Are you sure?',
+  'Pwede pa naman pag usapan to',
+  'Pretty Please',
+  'Di ako magnanakaw pramis',
+  'Libre pa kita',
+  'Edi wag, pero sige na pls',
+  'De, okay lang naman',
+  'What if pumayag ka na?',
+  'Ahh okay, sino ba naman ako',
+  'Gwenchana, Tengnengneng',
+  'Osige, wag na okay lang naman',
+  'Di talaga matatapos to',
+  'Wag mo intayin akoy naiinis'
 ];
 
 function nopress() {
