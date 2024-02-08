@@ -20,8 +20,11 @@ function nopress() {
   
   document.getElementById("nobut").innerHTML = rand;
 
-  var i = Math.floor(Math.random()*500)+1;
-  var j = Math.floor(Math.random()*300)+1;
+  var x = window.innerWidth*0.5;
+  var y = window.innerHeight*0.5
+  
+  var i = Math.floor(Math.random()*x);
+  var j = Math.floor(Math.random()*y);
   
   nobutton.style.left = i+"px";
   nobutton.style.top = j+"px";
