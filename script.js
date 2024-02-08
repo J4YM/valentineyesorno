@@ -20,8 +20,8 @@ function nopress() {
   
   document.getElementById("nobut").innerHTML = rand;
 
-  var x = window.innerWidth*0.5;
-  var y = window.innerHeight*0.5
+  var x = window.innerWidth*0.3;
+  var y = window.innerHeight*0.3;
   
   var i = Math.floor(Math.random()*x);
   var j = Math.floor(Math.random()*y);
